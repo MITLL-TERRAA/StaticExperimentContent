@@ -1,16 +1,16 @@
 {
   "headlines": [
-    {
-      "headline_a": "New Study Shows Benefits of Regular Exercise",
-      "headline_b": "Recent Research Reveals Advantages of Consistent Physical Activity"
-    },
-    {
-      "headline_a": "Local Community Celebrates Annual Festival",
-      "headline_b": "Town Residents Enjoy Traditional Yearly Celebration"
-    },
-    {
-      "headline_a": "Scientists Make Breakthrough in Cancer Treatment",
-      "headline_b": "Research Team Discovers Promising Therapy for Cancer Patients"
-    }
+    [
+      "New Study Shows Benefits of Regular Exercise",
+      "Recent Research Reveals Advantages of Consistent Physical Activity"
+    ],
+    [
+      "Local Community Celebrates Annual Festival",
+      "Town Residents Enjoy Traditional Yearly Celebration"
+    ],
+    [
+      "Scientists Make Breakthrough in Cancer Treatment",
+      "Research Team Discovers Promising Therapy for Cancer Patients"
+    ]
   ]
 }
